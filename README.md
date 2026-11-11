@@ -5,3 +5,4 @@
 
 Учебный проект для практики работы с Git: ветки и слияния, разрешение конфликта, `stash`, `revert`, `reset`, подмодули и Git LFS.
 Draft documentation
+Incorrect project description
